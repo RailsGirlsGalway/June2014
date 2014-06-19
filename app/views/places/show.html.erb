@@ -1,14 +1,7 @@
 <h3>Places created</h3>
-<% @places.each do |place| %>
-  <div>
-    <strong><%= place.name %></strong>
-    <br />
-    <p><%= place.description %></p>
-    <p><%= link_to 'Delete', place_path(place), method: :delete, data: { confirm: 'Are you sure?' } %></p>
-  </div>
-<% end %>
+
 <%= render 'places/form' %>
 
 
-<%= link_to 'Edit', edit_place_path(@user, @place) %> |
+<%= link_to 'Edit', edit_place_path(@place) %> |
 <%= link_to 'Back', places_path %>
