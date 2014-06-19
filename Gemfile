@@ -1,5 +1,11 @@
 source 'https://rubygems.org'
 
+# image thumbnails
+gem 'mini_magick', '3.5.0'
+
+# image uploading
+gem 'carrierwave'
+
 # resource rating (I had to fork it in my own repo to fix an issue - by @iammyr)
 gem "letsrate", :git => "git://github.com/iammyr/letsrate.git"
 
