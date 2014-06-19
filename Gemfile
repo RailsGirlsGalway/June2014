@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+# resource rating (I had to fork it in my own repo to fix an issue - by @iammyr)
+gem "letsrate", :git => "git://github.com/iammyr/letsrate.git"
+
+# authenticated users
 gem 'devise'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
