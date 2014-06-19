@@ -23,6 +23,6 @@ Developing this application the RailsGirls attendees will implement the followin
 * Google Map bookmarks customization.
 
 
-Check out the [step-by-step tutorial](https://github.com/iammyr/railsgirls.github.com/blob/master/_posts/2014-05-29-touristic-autism-friendly-spot-app.markdown) to implement this application.
+Check out the [step-by-step tutorial](https://github.com/iammyr/railsgirls.github.com/blob/master/_posts/2014-05-29-touristic-autism_intro.markdown) to implement this application.
 
 
