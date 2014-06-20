@@ -19,4 +19,14 @@ To run it just follow the steps below.
 
 Then you'll find it available on your http://localhost:3000 .
 
-A tutorial explains it step by step at https://github.com/iammyr/railsgirls.github.com/blob/master/_posts/2014-05-29-touristic-autism_intro.markdown
+The [Touristic Autism-Friendly Spots App](http://guides.railsgirls.com/touristic-autism_intro/) tutorial explains the development of this web app step by step. It will be followed during our workshop at Rails Girls Galway.
+
+The version of the tools used during the implementation are the following:
+
+* RVM: 1.25.27
+
+* Rails: 4.1.1
+
+* Ruby: 2.0.0p481 (2014-05-08 revision 45883)
+
+* Operating System: Debian GNU/Linux 7 Wheezy
